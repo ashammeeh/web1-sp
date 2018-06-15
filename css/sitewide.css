@@ -10,7 +10,7 @@
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 /* Scale down images and embedded videos so they don't overflow their parents */
-img, object { max-width: 100%; }
+img, object { max-width: 50%; }
 
 /*	Development/layout aid. Remove the comments
 	on this rule in order to draw boxes around DIVs
