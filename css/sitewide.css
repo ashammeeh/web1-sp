@@ -65,3 +65,6 @@ p.speech {
   box-shadow: 2px 2px 4px #888;
 }
 
+body {
+  background: url(backgroundimg.jpg);
+}
