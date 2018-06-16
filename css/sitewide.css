@@ -49,3 +49,8 @@ body {
 	padding: 2em;
 	border: 5px solid #eee;
 }
+
+body {
+	background-image: "img/broken.jpg";
+   	background-repeat: no-repeat;
+}
