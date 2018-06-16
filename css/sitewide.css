@@ -27,7 +27,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Shadows Into Light', regular;
 	font-size: 12px;
 	line-height: 1.5em;
 	color: black;
