@@ -31,6 +31,17 @@ body {
 	font-size: 12px;
 	line-height: 1.5em;
 	color: #222;
+	
+	 /* The image used */
+    	background-image: url("/img/backgroundimg");
+
+    /* Full height */
+    	height: 100%; 
+
+    /* Center and scale the image nicely */
+   	 background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
 }
 
 /*	Generally, you will only want one container element in
@@ -47,21 +58,4 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
-}
-
-body, html {
-    height: 100%;
-}
-
-.bg { 
-    /* The image used */
-    background-image: url("/img/backgroundimg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
