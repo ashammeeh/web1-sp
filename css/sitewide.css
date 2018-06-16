@@ -65,6 +65,15 @@ p.speech {
   box-shadow: 2px 2px 4px #888;
 }
 
-body {
-  background: url("https://unsplash.com/photos/NObT7cuEm2k");
+.bg {
+    /* The image used */
+    background-image: url("backgroundimg.jpeg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
