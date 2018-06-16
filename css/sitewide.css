@@ -30,7 +30,8 @@ body {
 	font-family:  'Roboto', sans-serif;
 	font-size: 12px;
 	line-height: 1.5em;
-	color: #ffb6c1;
+	color: black;
+	background-color: #ffb6c1
 }
 
 /*	Generally, you will only want one container element in
@@ -43,7 +44,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 100%;
+	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
