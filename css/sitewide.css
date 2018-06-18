@@ -29,11 +29,11 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 body {
 	font-family: 'Shadows Into Light', regular;
 	font-size: 12px;
-	line-height: 1.5em;
+	line-height: 1.5em;p
 	color: black;
 	background-color: #ffb6c1
 	text-align: center;
-	vertical-alin: middle;
+	vertical-align: middle;
 }
 
 /*	Generally, you will only want one container element in
