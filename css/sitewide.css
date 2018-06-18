@@ -32,6 +32,8 @@ body {
 	line-height: 1.5em;
 	color: black;
 	background-color: #ffb6c1
+	text-align: center;
+	vertical-alin: middle;
 }
 
 /*	Generally, you will only want one container element in
