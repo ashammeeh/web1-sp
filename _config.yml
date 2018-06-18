@@ -1,6 +1,6 @@
 
 # Site settings
-title: :BrAiN DuMp
+title: : Title here
 description: A collection of logs/entries, responses to articles, photos, and exerpts of academic papers throughout the semester. 
 baseurl: "/web1-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: " https://ashammeeh.github.io/web1-sp" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
