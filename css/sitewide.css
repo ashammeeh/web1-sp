@@ -27,7 +27,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: 'Gloria Hallelujah';
+	ffont-family: 'IBM Plex Mono', monospace;
 	font-size: 12px;
 	line-height: 1.5em;p
 	color: black;
